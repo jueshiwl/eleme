@@ -5,7 +5,7 @@
 
 ***
 >  * 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
->  * demo地址 [demo](http://liangxiaojuan.github.io/elem/index#/goods) （请用chrome的手机模式预览）
+>  * demo地址 [demo]() （请用chrome的手机模式预览）
 >  * 本项目地址[github地址](https://github.com/jueshiwl/eleme)
 >  * 我的另外还上传了一个eleme vue2.0的开源项目 [eleme2.0]() 可以让你清楚的看到vue1.0 和vue2.0的区别。
 
