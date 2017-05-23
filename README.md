@@ -1,7 +1,7 @@
 # eleme
 >  本项目是基于vue1实战项目，vue1 + webpack + es6 + eslint 高仿饿了么app , 是适合新手进阶的绝佳教程。
 
-###首先
+### 首先
 
 ***
 >  * 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
@@ -20,7 +20,7 @@
 *  stylus
 *  webpack
 
-###安装
+### 安装
 ***
 项目地址：（`git clone`）
 ```shell
@@ -52,7 +52,7 @@ npm install -g vue-cli
 npm install -g eslint
 ```
 
-###目录结构
+### 目录结构
 ***
 <pre>
 ├── build              // 构建服务和webpack配置
@@ -68,7 +68,7 @@ npm install -g eslint
 │   └── main.js        // Webpack 预编译入口
 </pre>
 
-###实现的功能
+### 实现的功能
 ***
 * 商品菜单联动
 * 加入购物车，移除购物车
