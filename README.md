@@ -1,5 +1,5 @@
 # eleme
->  本项目是基于vue1实战项目，vue1 + webpack + es6 + eslint 高仿饿了么app , 是适合新手进阶的绝佳教程。
+>  本项目是基于vue1实战项目，vue1 + webpack + es6 + eslint 高仿饿了么app。
 
 ### 首先
 
