@@ -4,10 +4,8 @@
 ### 首先
 
 ***
->  * 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
->  * demo地址 [demo]() （请用chrome的手机模式预览）
+>  * 喜欢的请点心，关注，star ,fork
 >  * 本项目地址 [github地址](https://github.com/jueshiwl/eleme) 
->  * 我的另外还上传了一个eleme vue2.0的开源项目 [eleme2.0]() 可以让你清楚的看到vue1.0 和vue2.0的区别。
 
 
 ### 项目技术架构
@@ -24,7 +22,7 @@
 ***
 项目地址：（`git clone`）
 ```shell
-git clone https://github.com/liangxiaojuan/eleme.git
+git clone https://github.com/jueshiwl/eleme.git
 ```
 通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
